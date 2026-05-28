@@ -272,6 +272,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Tectite FormMail](http://www.tectite.com/) - FormMail, form Encryption, hosted Forms.
 * [Wufoo](http://www.wufoo.com/).
 
+* [Form Handler for Google Sheets](https://github.com/ttcd77/form-handler) - Zero-cost serverless form backend. Pipe HTML forms directly into Google Sheets with Google Apps Script. MIT licensed.
 ## Media management and File storage
 
 * [Filestack](https://www.filestack.com) - Image management system with Filestack - upload files, transform images, videos, and documents, store content and deliver fast via CDN.
